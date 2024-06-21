@@ -147,12 +147,14 @@ header a{
 .about-img {
   max-width: 350px;
   margin-top: 30px;
-  margin-left: 90px;
 }
 .button:hover {
   background-color: #f5b9b9;
 }
 
+.description-info {
+  margin-right: 30px;
+}
 @media (min-width: 720px) {
   .description-content {
     display: flex;
