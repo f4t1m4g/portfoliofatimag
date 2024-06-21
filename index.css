@@ -152,9 +152,6 @@ header a{
   background-color: #f5b9b9;
 }
 
-.description-info {
-  margin-left: 30px;
-}
 @media (min-width: 720px) {
   .description-content {
     display: flex;
@@ -165,7 +162,6 @@ header a{
   .description-info{
     text-align: start;
     flex-direction: row;
-    margin: 0;
   }
 }
 /* Fin sección About Me */
