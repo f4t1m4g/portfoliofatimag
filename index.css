@@ -145,10 +145,9 @@ header a{
 }
 
 .about-img {
-  float: left;
-  max-width: 400px;
+  max-width: 350px;
   margin-top: 30px;
-  margin-left: 60px;
+  margin-left: 90px;
 }
 .button:hover {
   background-color: #f5b9b9;
