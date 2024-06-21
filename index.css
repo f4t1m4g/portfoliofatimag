@@ -165,7 +165,7 @@ header a{
   .description-info{
     text-align: start;
     flex-direction: row;
-    margin: auto;
+    margin: 0;
   }
 }
 /* Fin sección About Me */
