@@ -167,7 +167,7 @@ header a{
   .about-img {
     display: flex;
     align-items: center;
-    flex-direction: row;
+    justify-content: centerl
   }
 }
 /* Fin sección About Me */
