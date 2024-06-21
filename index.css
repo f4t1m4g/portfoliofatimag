@@ -165,7 +165,8 @@ header a{
     flex-direction: row;
   }
   .about-img {
-    align: center;
+    display: flex;
+    align-items: center;
     flex-direction: row;
   }
 }
