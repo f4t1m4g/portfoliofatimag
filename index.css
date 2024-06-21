@@ -147,7 +147,7 @@ header a{
 .about-img {
   max-width: 300px;
   margin-top: 30px;
-  margin-right: 30px;
+  margin-left: 30px;
 }
 .button:hover {
   background-color: #f5b9b9;
