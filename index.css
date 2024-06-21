@@ -161,7 +161,7 @@ header a{
   }
   .about-img {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
   }
   .description-info{
     text-align: start;
