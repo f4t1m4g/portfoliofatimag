@@ -159,11 +159,7 @@ header a{
     align-items: center;
     justify-content: space-between;
   }
-  .about-img {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
+
   .description-info{
     text-align: start;
     flex-direction: row;
